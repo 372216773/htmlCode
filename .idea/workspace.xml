@@ -46,9 +46,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -91,6 +93,8 @@
       <workItem from="1610935672548" duration="3624000" />
       <workItem from="1610939607973" duration="10312000" />
       <workItem from="1610962760291" duration="3538000" />
+      <workItem from="1610971088277" duration="170000" />
+      <workItem from="1610971269900" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="html基础操作">
       <created>1610969965976</created>
@@ -106,7 +110,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610970510518</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="htmlcode">
+      <created>1610971124250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610971124250</updated>
+    </task>
+    <task id="LOCAL-00004" summary="htmlcode">
+      <created>1610971163782</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610971163782</updated>
+    </task>
+    <task id="LOCAL-00005" summary="html">
+      <created>1610971378879</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610971378879</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +164,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="html基础操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="html基础操作" />
+    <MESSAGE value="htmlcode" />
+    <MESSAGE value="html" />
+    <option name="LAST_COMMIT_MESSAGE" value="html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="382" y="174" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1610877439690">
