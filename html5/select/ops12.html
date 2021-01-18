@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css新增选择器</title>
+</head>
+<style>
+    ul>li:first-child{
+        color: #ffc700;
+    }
+    ul>li:last-child{
+        color: chartreuse;
+    }
+    ul>li:nth-child(2){
+        color: aquamarine;
+    }
+    ul>li:nth-child(2n){
+        font-size: 18px;
+        font-family: 华文隶书;
+    }
+    /*中间可以加别的标签,且不影响结果
+    nth-of-type()
+    */
+    ul>li:nth-of-type(3){
+        font-size: 30px;
+    }
+
+</style>
+<body>
+<div class="box">
+    <ul>
+        <li>大数据</li>
+        <li>分布式</li>
+        <li>网络编程</li>
+        <li>爬虫</li>
+        <li>反射机制</li>
+    </ul>
+</div>
+</body>
+</html>
