@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css元素中的分类</title>
+</head>
+<style>
+    span{
+        /*不能设置宽高,不会独占一行*/
+        background-color: crimson;
+    }
+    .box1{
+        /*能设置宽高,会独占一行,默认宽度填充父级元素 */
+        background-color: lightcoral;
+    }
+    .box2{
+        background-color: chartreuse;
+        width: 300px;
+        height: 20px;
+    }
+    .box3{
+        background-color: lightgoldenrodyellow;
+        font-family: "JetBrains Mono";
+    }
+    input{
+        background-color: chocolate;
+        width: 100px;
+        height: 20px;
+    }
+</style>
+<body>
+<span>java</span>
+<span>C</span>
+<div class="box1">box1</div>
+<div class="box2">box2</div>
+<input type="text" placeholder="输入框">
+<div class="box3">行内元素:默认宽度是包裹内容的,不能设置宽高,不会独占一行 eg:span,i,a</div>
+<div class="box3">块级元素(块元素):默认宽度是填充父元素的,能设置宽高,会独占一行 eg:div,ul......</div>
+<div class="box3">行内块级元素(行内块元素):默认宽度是包裹内容的.能设置宽高,不会独占一行 eg:input,img</div>
+</body>
+</html>
