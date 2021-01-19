@@ -10,12 +10,33 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6f40324-1bc2-4cdb-9216-92ff53b8ba4f" name="Default Changelist" comment="html基础操作--&gt;盒子模型">
-      <change afterPath="$PROJECT_DIR$/20200119/img/image-20210119110022696.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20200119/ops3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20200119/ops4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20200119/ops5.html" afterDir="false" />
+    <list default="true" id="b6f40324-1bc2-4cdb-9216-92ff53b8ba4f" name="Default Changelist" comment="html">
+      <change afterPath="$PROJECT_DIR$/Demo/Tencent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/5ccb70cc842f839fcaded7b14c12dc62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__QQ@2x-2PLMfbG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__ft@3x-36-ytS_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__hlddz@3x-2tM73is.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__icon-down-1otn9JV.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__icon-mac-b@2x-1IQOJ7n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__icon-mac@2x-j__34wR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__jt@3x-3_e8Lqo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__kt@3x-1dfSgbf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__lemon@3x-18MyKLd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__logo-28ns3i0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__qb@3x-9MmVrIR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__qq@3x-1asJgYO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__qqplayer@3x-2yTT9mU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__qv@3x-3jYHIh8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__qy@3x-2CNv7Gp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__qywx@3x-cgyVIzF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__sg@3x-1TMaqCp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__start@3x-3JxSegH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__ticon-pc@2x-3NzfN7o.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__ticon-phone@2x-GfXvLv6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__ttxq@3x-39pK2rs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/img/__wx@3x-lwasu0v.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/20200119/ops5.html" beforeDir="false" afterPath="$PROJECT_DIR$/20200119/ops5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +71,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -57,7 +79,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/css-study" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
@@ -102,7 +124,8 @@
       <workItem from="1610971269900" duration="158000" />
       <workItem from="1610971447440" duration="449000" />
       <workItem from="1610972932547" duration="644000" />
-      <workItem from="1611018281322" duration="9371000" />
+      <workItem from="1611018281322" duration="11430000" />
+      <workItem from="1611044849827" duration="17381000" />
     </task>
     <task id="LOCAL-00001" summary="html基础操作">
       <created>1610969965976</created>
@@ -153,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611021326729</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="html">
+      <created>1611039323277</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611039323277</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,11 +215,12 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="htmlcode" />
-    <MESSAGE value="html" />
     <MESSAGE value="html基础操作" />
     <MESSAGE value="html基础操作--&gt;盒子模型" />
-    <option name="LAST_COMMIT_MESSAGE" value="html基础操作--&gt;盒子模型" />
+    <MESSAGE value="html" />
+    <option name="LAST_COMMIT_MESSAGE" value="html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="382" y="174" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1610877439690">
@@ -204,10 +235,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="493" y="153" width="638" height="362" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1610970504610" />
-    <state x="378" y="78" key="FileChooserDialogImpl" timestamp="1610969127209">
+    <state x="378" y="78" key="FileChooserDialogImpl" timestamp="1611051743822">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="378" y="78" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1610969127209" />
+    <state x="378" y="78" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1611051743822" />
     <state x="578" y="202" width="256" height="296" key="Github.ShareDialog" timestamp="1610969153857">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
