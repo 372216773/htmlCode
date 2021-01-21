@@ -11,6 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6f40324-1bc2-4cdb-9216-92ff53b8ba4f" name="Default Changelist" comment="html">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-study/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-study/ops1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -36,6 +40,12 @@
         <option value="https://github.com/372216773/htmlCode.git" />
       </set>
     </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1nBlrhYKigBs4qrAQS0G8LL7XXp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -56,7 +66,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -110,6 +120,10 @@
       <workItem from="1611195736562" duration="21000" />
       <workItem from="1611196180253" duration="116000" />
       <workItem from="1611196381978" duration="22000" />
+      <workItem from="1611196530752" duration="47000" />
+      <workItem from="1611199727249" duration="1423000" />
+      <workItem from="1611201260132" duration="166000" />
+      <workItem from="1611214521140" duration="1255000" />
     </task>
     <task id="LOCAL-00001" summary="html基础操作">
       <created>1610969965976</created>
@@ -181,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611196212945</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="html">
+      <created>1611196557197</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611196557197</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,18 +266,18 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="625" y="48" key="Github.UntrackedFilesDialog/0.0.1280.689@0.0.1280.689" timestamp="1610969170960" />
-    <state x="176" y="0" key="SettingsEditor" timestamp="1611019286886">
+    <state x="176" y="0" key="SettingsEditor" timestamp="1611215157880">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="176" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1611019286886" />
-    <state x="213" y="71" key="Vcs.Push.Dialog.v2" timestamp="1611021516510">
+    <state x="176" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1611215157880" />
+    <state x="213" y="71" key="Vcs.Push.Dialog.v2" timestamp="1611196561626">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="213" y="71" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1611021516510" />
-    <state x="438" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611021290898">
+    <state x="213" y="71" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1611196561626" />
+    <state x="438" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611196537964">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="438" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689@0.0.1280.689" timestamp="1611021290898" />
+    <state x="438" y="264" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689@0.0.1280.689" timestamp="1611196537964" />
     <state x="382" y="54" width="625" height="446" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1610954706685">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
