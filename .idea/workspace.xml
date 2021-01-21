@@ -11,32 +11,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6f40324-1bc2-4cdb-9216-92ff53b8ba4f" name="Default Changelist" comment="html">
-      <change afterPath="$PROJECT_DIR$/Demo/Tencent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/5ccb70cc842f839fcaded7b14c12dc62.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__QQ@2x-2PLMfbG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__ft@3x-36-ytS_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__hlddz@3x-2tM73is.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__icon-down-1otn9JV.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__icon-mac-b@2x-1IQOJ7n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__icon-mac@2x-j__34wR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__jt@3x-3_e8Lqo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__kt@3x-1dfSgbf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__lemon@3x-18MyKLd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__logo-28ns3i0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__qb@3x-9MmVrIR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__qq@3x-1asJgYO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__qqplayer@3x-2yTT9mU.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__qv@3x-3jYHIh8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__qy@3x-2CNv7Gp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__qywx@3x-cgyVIzF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__sg@3x-1TMaqCp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__start@3x-3JxSegH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__ticon-pc@2x-3NzfN7o.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__ticon-phone@2x-GfXvLv6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__ttxq@3x-39pK2rs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo/img/__wx@3x-lwasu0v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/Tencent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo2/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20200119/ops5.html" beforeDir="false" afterPath="$PROJECT_DIR$/20200119/ops5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/Tencent.html" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/Tencent.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -79,20 +59,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/css-study" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wj\html code\Demo2\img" />
+      <recent name="D:\wj\html code\html5\img" />
+      <recent name="D:\wj\html code\img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\wj\html code\20200119\img" />
       <recent name="D:\wj\html code\html5\img" />
       <recent name="D:\wj\html code\img" />
       <recent name="D:\wj\html code\html5\base" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\wj\html code\html5\img" />
-      <recent name="D:\wj\html code\img" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -125,7 +106,13 @@
       <workItem from="1610971447440" duration="449000" />
       <workItem from="1610972932547" duration="644000" />
       <workItem from="1611018281322" duration="11430000" />
-      <workItem from="1611044849827" duration="17381000" />
+      <workItem from="1611044849827" duration="19356000" />
+      <workItem from="1611100760098" duration="353000" />
+      <workItem from="1611101335413" duration="5632000" />
+      <workItem from="1611119380486" duration="27526000" />
+      <workItem from="1611154805954" duration="6026000" />
+      <workItem from="1611183997423" duration="10713000" />
+      <workItem from="1611195736562" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="html基础操作">
       <created>1610969965976</created>
@@ -183,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611039323277</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="html">
+      <created>1611070388968</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611070388968</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,10 +229,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="493" y="153" width="638" height="362" key="DiffContextDialog/0.0.1280.689@0.0.1280.689" timestamp="1610970504610" />
-    <state x="378" y="78" key="FileChooserDialogImpl" timestamp="1611051743822">
+    <state x="661" y="112" key="FileChooserDialogImpl" timestamp="1611127130512">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="378" y="78" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1611051743822" />
+    <state x="661" y="112" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1611127130512" />
     <state x="578" y="202" width="256" height="296" key="Github.ShareDialog" timestamp="1610969153857">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

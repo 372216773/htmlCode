@@ -1,0 +1,24 @@
+*{
+
+}
+body{
+    color: #edf1f7;
+}
+ul li{
+    text-decoration: none;
+}
+header{
+    width: 1200px;
+    height: 68px;
+    background-color: #ffc700;
+    margin: 0 auto;
+}
+.contains1{
+    width: 100%;
+    height: 610px;
+    background-image: url("./img/__QQ@2x-2PLMfbG.png");
+    background-repeat: no-repeat;
+    background-size: 1920px auto;
+    background-position: center 0px;
+    background-color: #d7e3f4;
+}
