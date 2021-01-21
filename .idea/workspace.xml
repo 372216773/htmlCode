@@ -11,12 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6f40324-1bc2-4cdb-9216-92ff53b8ba4f" name="Default Changelist" comment="html">
-      <change afterPath="$PROJECT_DIR$/Demo/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo2/Tencent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo2/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo2/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/Tencent.html" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/Tencent.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +108,8 @@
       <workItem from="1611154805954" duration="6026000" />
       <workItem from="1611183997423" duration="10713000" />
       <workItem from="1611195736562" duration="21000" />
+      <workItem from="1611196180253" duration="116000" />
+      <workItem from="1611196381978" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="html基础操作">
       <created>1610969965976</created>
@@ -177,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611070388968</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="html">
+      <created>1611196212945</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611196212945</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
