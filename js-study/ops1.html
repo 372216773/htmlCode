@@ -2,11 +2,27 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>数组的创建</title>
 </head>
 <body>
 <script>
-    console.log();
+    /*定义数组*/
+    var ages = [1,2,34,6,5];
+    var len = ages.length;
+    var tmp = 0;
+    //遍历数组
+    //while()
+    while(tmp<len) {
+        console.log(ages[tmp++]);
+    }
+    //for i
+    for (var i = 0; i < ages.length; i++) {
+        console.log(ages[i]);
+    }
+    //for in
+    for (var agesKey in ages) {
+        console.log(ages[agesKey]);
+    }
 </script>
 </body>
 </html>

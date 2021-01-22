@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>字符串的常见操作</title>
+</head>
+<body>
+<script>
+    var str = "hello world";
+    //截取字符
+    console.log(str.charAt(1));
+    //字符串的拼接
+    var str1 = str+"java";
+    console.log(str1);
+    //判断是否以指定字符串结尾,开始
+    str.endsWith("a");
+    str.startsWith("h");
+    //字符串的长度
+    console.log(srt.length);
+    //去除左右位置的空格
+    str.trimLeft();
+    str.trimRight()
+    //去除首尾的空格
+    str.trim();
+    //指定字符在字符串中首次出现的位置
+    str.indexOf("o");
+    //自定字符在字符串中最后一次出现的位置
+    str.lastIndexOf("l");
+    //截取(指定位置开始,指定长度)的字符串
+    str.substr(2,2);
+    //截取(指定位置开始,指定位置结束)的字符串
+    str.substring(2,4);
+    //将字符串转换为小写
+    str.toLowerCase();
+    //将字符串转换为大写
+    str.toUpperCase();
+    //将字符串中(指定字符串,转换为另一个字符串)
+    str.replace("ll","00");
+</script>
+</body>
+</html>
